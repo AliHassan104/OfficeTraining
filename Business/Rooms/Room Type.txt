@@ -1,0 +1,33 @@
+1) No show:
+Apply no show in case of cancelation of registration in room type we can charge guest
+
+step 1 : Rooms -> Admin -> properties setup -> no show settings
+step 2 : Rooms -> Room Type -> add new rook type -> select apply no show charge 
+step 3 : create reservation 
+step 4 : night audit -> no show -> apply no show
+
+2) over booking:
+
+we can create more reservation than available rooms in room type
+
+step 1 : Rooms -> Admin -> properties setup -> reservation setting -> allow reservation on room type
+step 2 : Rooms -> Room Type -> update room type -> over booking threshold 
+	
+	overbooking advance option
+
+3) Setup Maintenance schedule Room Type
+
+step 1 : room type -> maintenance schedule -> i.e 6/14/2024
+step 2 : create reservation -> check in date -> 6/14/2024 
+
+4) setup Room copy rooms
+
+step 1: room type -> copy room 
+
+5) Setup Room basic
+
+admin -> room -> add room
+
+6) Setup Room type basic
+
+admin -> room types -> add new room -> 
