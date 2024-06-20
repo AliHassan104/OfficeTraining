@@ -1,0 +1,37 @@
+*Servlets
+*Servlets Life Cycle
+	-init()
+	-service()
+	-destroy()
+*Types of Servlets
+	-Generic
+	-HTTP
+*Servlet Filter
+*Deployment Descriptor
+*JSPs
+*JSP Tags
+	-Scriplet		<%  %>	
+	-Expression		<%= %>	
+	-Declarative	<%! %>	
+	-Directive		<%@ %>	
+*Tag Libararies
+	-Core
+	-SQL
+	-Function
+	-XML
+	-Formatting
+Struts
+Hibernate
+Spring MVC
+version controlling systems
+
+direct web remote
+
+jod report
+jasper report
+velocity #
+Apache Poi
+Apache Ant
+xml
+git
+jdk vs jre
