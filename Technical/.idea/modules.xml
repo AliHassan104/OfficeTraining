@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LamdasTraining/LamdasTraining.iml" filepath="$PROJECT_DIR$/LamdasTraining/LamdasTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamTraining/StreamTraining.iml" filepath="$PROJECT_DIR$/StreamTraining/StreamTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Technical.iml" filepath="$PROJECT_DIR$/.idea/Technical.iml" />
+    </modules>
+  </component>
+</project>
